@@ -1,0 +1,1 @@
+20. Copying contents from one list to another list in jQuery also demonstrate how to create new element in html page using JQuery. 
